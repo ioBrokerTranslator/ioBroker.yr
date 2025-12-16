@@ -88,7 +88,6 @@
         "zh-cn": "如果根据 met.no 的要求使用默认值，则移动时间表\n不要动态查询图例/图标，而是随版本一起提供\n确保适配器已停止时不执行逻辑"
       }
     },
-    "title": "yr.no",
     "titleLang": {
       "en": "yr.no weather",
       "de": "yr.no Wetter",
